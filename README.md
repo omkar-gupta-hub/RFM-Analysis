@@ -1,6 +1,6 @@
 # RFM Analysis (Customer segmentation)
 
-![RFM Analysis]
+![RFM Analysis][https://github.com/omkar-gupta-hub/RFM-Analysis/blob/main/rfm1.png]
 
 ## Introduction
 
