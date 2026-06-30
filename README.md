@@ -120,4 +120,4 @@ Thank you for exploring the RFM analysis project.I Will be happy if you connect 
 
 ## Contact
 
-- **Mohamed Ibrahim** [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/omkar-gupta-data/)
+- **OMKAR GUPTA** [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/omkar-gupta-data/)
