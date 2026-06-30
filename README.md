@@ -1,6 +1,6 @@
 # RFM Analysis (Customer segmentation)
 
-![RFM Analysis](https://www.linkedin.com/in/omkar-gupta-data/RFM-Analysis/blob/main/Dataset/rfm1.png)
+![RFM Analysis]
 
 ## Introduction
 
